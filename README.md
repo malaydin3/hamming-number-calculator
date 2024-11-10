@@ -25,8 +25,9 @@ To compile and run the code, use the following commands:
 
 ```bash
 g++ -std=c++11 -o hamming_calculator main.cpp ./hamming_calculator
-
-or simply 
-```bash
+```
+or simply
+```bash 
 make
 ./hamming_calculator 
+```
